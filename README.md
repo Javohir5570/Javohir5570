@@ -1,23 +1,23 @@
 ![Welcome!](COIp95v7.gif)
 <h1 align="center">
-  <img src="name.svg" alt="Ravshanov Shahzod" />
+  <img src="name.svg" alt=" Malfoy_5570" />
 </h1>
 <br/>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiorDevv&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malfoy&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/) 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShukuraliProgrammer&theme=github_dark&layout=compact)](https://wakatime.com/@DiorDevv)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/Javohir55570/) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShukuraliProgrammer&theme=github_dark&layout=compact)](https://wakatime.com/@javohir5570)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/)
+[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=Javohir5570&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/)
 
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/DiorDevv/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/Javohir5570/)
 
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
