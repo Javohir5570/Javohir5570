@@ -1,19 +1,19 @@
 ![Welcome!](COIp95v7.gif)
 <h1 align="center">
-  <img src="name.svg" alt=" Malfoy_5570" />
+  <img src="name.svg" alt="Ravshanov Shahzod" />
 </h1>
 <br/>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malfoy&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javohir5570&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/Javohir55570/) 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Javohir5570heme=github_dark&layout=compact)](https://wakatime.com/@javohir5570)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/Javohir5570/) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShukuraliProgrammer&theme=github_dark&layout=compact)](https://wakatime.com/Javohir5570)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=Javohir5570&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/)
+[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/Javohir5570/)
 
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
@@ -52,9 +52,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/shukurali-rezamonov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diyorbekaxmadjonov98@gmail.com)](mailto:diyorbekaxmadjonov98@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mee_dior)](https://t.me/mee_dior)
-
-<!---
-Javohir5570/Javohir5570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Javohir5570)](https://t.me/Javohir5570)
