@@ -1,6 +1,6 @@
 ![Welcome!](COIp95v7.gif)
 <h1 align="center">
-  <img src="name.svg" alt="Ravshanov Shahzod" />
+  <img src="name.svg" alt"Javohir5570" />
 </h1>
 <br/>
 
